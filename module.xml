@@ -17,7 +17,7 @@
 		<rate sort="5">Rate</rate>
 		<maint sort="6">Maintenance</maint>
 	</menuitems>
-	<location>release/2.2/cdrcost-0.4.tgz</location>
+	<location>release/cdrcost-0.4.tgz</location>
 	<info>http://www.aussievoip.com/wiki/freePBX-CDRCost</info>
 	<attention>
 		If you'd like to automaticaly generate and keep up-to-date cdrcost table 
@@ -30,6 +30,6 @@
 		*0.1* First release
 	</changelog>
 	<location>release/cdrcost-0.4.tgz</location>
-	<md5sum>6cc43a407f82acb6e2b42452fa7fb6b2</md5sum>
+	<md5sum>03dc9f7a77dcaa7ca226d0db8f07a365</md5sum>
 </module>
 
