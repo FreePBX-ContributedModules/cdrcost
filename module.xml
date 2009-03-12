@@ -8,7 +8,7 @@
 		For example, you can assing different cost for mobile and landline calls.
 	</description>
 	<type>tool</type>
-	<category>Call Cost</category>
+	<category>Third Party Addon</category>
 	<menuitems>
 		<zonegroup sort="1">Zone Group</zonegroup>
 		<zone sort="2">Zone</zone>
